@@ -1,10 +1,10 @@
 # Fdb version 3
-["xdvipdfmx"] 1681117009 "resume.xdv" "resume.pdf" "resume" 1681117010
-  "resume.xdv" 1681117009 20896 ed8b174d09f7021899cba93b71f69e8d "xelatex"
+["xdvipdfmx"] 1731939412 "resume.xdv" "resume.pdf" "resume" 1731939413
+  "resume.xdv" 1731939412 18912 72ea1fc7001172a975ee831b69d26b8b "xelatex"
   (generated)
   "resume.pdf"
-["xelatex"] 1681117008 "c:/Users/BXRJ_MFH_DESK/vscode/Chinese-Resume-Template/resume.tex" "resume.xdv" "resume" 1681117010
-  "c:/Users/BXRJ_MFH_DESK/vscode/Chinese-Resume-Template/resume.tex" 1681116397 5678 bc6ace78298fb0e2b6e3b29819a92742 ""
+["xelatex"] 1731939410 "c:/Users/BXRJ_MFH_DESK/vscode/Chinese-Resume-Template/resume.tex" "resume.xdv" "resume" 1731939413
+  "c:/Users/BXRJ_MFH_DESK/vscode/Chinese-Resume-Template/resume.tex" 1731939410 7065 11b9194d18dd7f70b70217df43ffbb16 ""
   "c:/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1678436992 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmr10.tfm" 1678436719 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
   "c:/texlive/2022/texmf-dist/tex/generic/iftex/ifluatex.sty" 1678437136 492 1994775aa15b0d1289725a0b1bbc2d4c ""
@@ -57,9 +57,9 @@
   "fontawesome.sty" 1681012627 91671 568bae7fb406b914dfd7dbea09d9e2a6 ""
   "images/you.jpg" 1681116168 3499708 171d24ccd6e79b1927c71658aaca5e6b ""
   "linespacing_fix.sty" 1681012627 952 d7b2ee806f776f17eb0e9f4ff455a31b ""
-  "resume.aux" 1681117009 2179 84435652317b1f59098d7e54aa8cc495 "xelatex"
+  "resume.aux" 1731939412 1809 29c3182fa4a61f3eb8f093a4afe2d8f5 "xelatex"
   "resume.cls" 1681117007 2897 5945001eea796f78e9da7a5081afa03b ""
-  "resume.tex" 1681116397 5678 bc6ace78298fb0e2b6e3b29819a92742 ""
+  "resume.tex" 1731939410 7065 11b9194d18dd7f70b70217df43ffbb16 ""
   "zh_CN-Adobefonts_external.sty" 1681012627 1148 4b20eb0da103e710e9148cd5769e2e1b ""
   (generated)
   "resume.aux"

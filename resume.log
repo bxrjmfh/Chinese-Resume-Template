@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.3.10)  10 APR 2023 16:56
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.3.10)  18 NOV 2024 22:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -460,12 +460,12 @@ File: images/you.jpg Graphic file (type bmp)
 
 ] (./resume.aux) ) 
 Here is how much of TeX's memory you used:
- 8888 strings out of 476179
- 221714 string characters out of 5813072
- 607242 words of memory out of 5000000
- 29520 multiletter control sequences out of 15000+600000
+ 8899 strings out of 476179
+ 222559 string characters out of 5813072
+ 602242 words of memory out of 5000000
+ 29531 multiletter control sequences out of 15000+600000
  470105 words of font info for 66 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 103i,5n,105p,374b,301s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 103i,5n,105p,374b,303s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on resume.xdv (1 page, 20896 bytes).
+Output written on resume.xdv (1 page, 18912 bytes).
